@@ -1,0 +1,11 @@
+{
+  "name": "howToNpm",
+  "version": "1.0.0",
+  "description": "how to npm exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "UzzielCA",
+  "license": "ISC"
+}
